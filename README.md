@@ -1,2 +1,4 @@
 # Dashbord-Analise-de-Dados
 Repositório dedicado ao Objetivo real em Analise de Dados, auto-desafios para melhor aprendizado e utilização em desenvolvimento do Power BI. 
+Sempre cumprindo ordem em Excel - Power Query/BI, segue Portfólio:
+
